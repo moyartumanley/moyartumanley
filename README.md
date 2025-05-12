@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Moyartu's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyartumanley)](https://github.com/moyartumanley/github-readme-stats)
 
 <!--
 **moyartumanley/moyartumanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
