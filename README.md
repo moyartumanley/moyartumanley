@@ -1,3 +1,3 @@
 ![Moyartu's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyartumanley&show_icons=true&theme=catppuccin_latte&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyartumanley)](https://github.com/moyartumanley/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyartumanley)](https://github.com/moyartumanley/github-readme-stats&layout=compact)
